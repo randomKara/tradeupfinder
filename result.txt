@@ -1,0 +1,585 @@
+
+✨ COLLECTION: The Gallery Collection
+👉 CONTRAT: 10x UMP-45 | Neo-Noir (BS)
+   Float requis: < 0.6159 (Adj: 0.62)
+   COÛT TOTAL: 310.00 | EV: 354.17 | PROFIT MOYEN: +44.17 | ROI: 14.2%
+   DROP TABLE (Valeur nette vs Coût contrat de 310.00):
+     🔴 Glock-18 | Gold Toof      (WW):   255.94 (Profit:   -54.06)
+     🟢 M4A1-S | Vaporwave        (FT):   452.40 (Profit:  +142.40)
+------------------------------------------------------------
+
+✨ COLLECTION: The Revolver Case Collection
+👉 CONTRAT: 10x Negev | Power Loader (BS)
+   Float requis: < 0.6715 (Adj: 0.67)
+   COÛT TOTAL: 73.30 | EV: 81.09 | PROFIT MOYEN: +7.79 | ROI: 10.6%
+   DROP TABLE (Valeur nette vs Coût contrat de 73.30):
+     🟢 AK-47 | Point Disarray    (WW):   136.50 (Profit:   +63.20)
+     🔴 G3SG1 | The Executioner   (BS):    53.14 (Profit:   -20.16)
+     🔴 P90 | Shapewood           (BS):    53.62 (Profit:   -19.67)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x MAC-10 | Pipsqueak (BS)
+   Float requis: < 0.4559 (Adj: 0.51)
+   COÛT TOTAL: 20.50 | EV: 26.74 | PROFIT MOYEN: +6.24 | ROI: 30.4%
+   DROP TABLE (Valeur nette vs Coût contrat de 20.50):
+     🟢 XM1014 | Monster Melt     (FT):    27.01 (Profit:    +6.51)
+     🟢 AUG | Eye of Zapems       (WW):    26.42 (Profit:    +5.92)
+     🟢 Dual Berettas | Sweet Lit (WW):    26.79 (Profit:    +6.29)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x MAC-10 | Pipsqueak (BS)
+   Float requis: < 0.4764 (Adj: 0.53)
+   COÛT TOTAL: 20.50 | EV: 26.35 | PROFIT MOYEN: +5.85 | ROI: 28.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 20.50):
+     🟢 XM1014 | Monster Melt     (WW):    25.84 (Profit:    +5.34)
+     🟢 AUG | Eye of Zapems       (WW):    26.42 (Profit:    +5.92)
+     🟢 Dual Berettas | Sweet Lit (WW):    26.79 (Profit:    +6.29)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x MAC-10 | Pipsqueak (BS)
+   Float requis: < 0.4938 (Adj: 0.55)
+   COÛT TOTAL: 20.50 | EV: 24.77 | PROFIT MOYEN: +4.27 | ROI: 20.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 20.50):
+     🟢 XM1014 | Monster Melt     (WW):    25.84 (Profit:    +5.34)
+     🟢 AUG | Eye of Zapems       (BS):    21.68 (Profit:    +1.18)
+     🟢 Dual Berettas | Sweet Lit (WW):    26.79 (Profit:    +6.29)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x MAC-10 | Pipsqueak (BS)
+   Float requis: < 0.5399 (Adj: 0.60)
+   COÛT TOTAL: 20.50 | EV: 23.31 | PROFIT MOYEN: +2.81 | ROI: 13.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 20.50):
+     🟢 XM1014 | Monster Melt     (WW):    25.84 (Profit:    +5.34)
+     🟢 AUG | Eye of Zapems       (BS):    21.68 (Profit:    +1.18)
+     🟢 Dual Berettas | Sweet Lit (BS):    22.42 (Profit:    +1.92)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x Nova | Wurst Hölle (BS)
+   Float requis: < 0.4633 (Adj: 0.46)
+   COÛT TOTAL: 21.60 | EV: 26.70 | PROFIT MOYEN: +5.10 | ROI: 23.6%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.60):
+     🟢 XM1014 | Monster Melt     (FT):    27.01 (Profit:    +5.41)
+     🟢 AUG | Eye of Zapems       (WW):    26.42 (Profit:    +4.82)
+     🟢 Dual Berettas | Sweet Lit (FT):    26.68 (Profit:    +5.08)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x Nova | Wurst Hölle (BS)
+   Float requis: < 0.5066 (Adj: 0.51)
+   COÛT TOTAL: 21.60 | EV: 26.74 | PROFIT MOYEN: +5.14 | ROI: 23.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.60):
+     🟢 XM1014 | Monster Melt     (FT):    27.01 (Profit:    +5.41)
+     🟢 AUG | Eye of Zapems       (WW):    26.42 (Profit:    +4.82)
+     🟢 Dual Berettas | Sweet Lit (WW):    26.79 (Profit:    +5.19)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x Nova | Wurst Hölle (BS)
+   Float requis: < 0.5293 (Adj: 0.53)
+   COÛT TOTAL: 21.60 | EV: 26.35 | PROFIT MOYEN: +4.75 | ROI: 22.0%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.60):
+     🟢 XM1014 | Monster Melt     (WW):    25.84 (Profit:    +4.24)
+     🟢 AUG | Eye of Zapems       (WW):    26.42 (Profit:    +4.82)
+     🟢 Dual Berettas | Sweet Lit (WW):    26.79 (Profit:    +5.19)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass 2024 Collection
+👉 CONTRAT: 10x Nova | Wurst Hölle (BS)
+   Float requis: < 0.5487 (Adj: 0.55)
+   COÛT TOTAL: 21.60 | EV: 24.77 | PROFIT MOYEN: +3.17 | ROI: 14.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.60):
+     🟢 XM1014 | Monster Melt     (WW):    25.84 (Profit:    +4.24)
+     🟢 AUG | Eye of Zapems       (BS):    21.68 (Profit:    +0.08)
+     🟢 Dual Berettas | Sweet Lit (WW):    26.79 (Profit:    +5.19)
+------------------------------------------------------------
+
+✨ COLLECTION: The Anubis Collection
+👉 CONTRAT: 10x MAC-10 | Echoing Sands (BS)
+   Float requis: < 0.4879 (Adj: 0.60)
+   COÛT TOTAL: 14.00 | EV: 15.97 | PROFIT MOYEN: +1.97 | ROI: 14.0%
+   DROP TABLE (Valeur nette vs Coût contrat de 14.00):
+     🟢 AWP | Black Nile          (WW):    24.28 (Profit:   +10.28)
+     🔴 Tec-9 | Mummy's Rot       (BS):    10.42 (Profit:    -3.58)
+     🔴 MAG-7 | Copper Coated     (BS):     9.86 (Profit:    -4.14)
+     🟢 AK-47 | Steel Delta       (WW):    19.30 (Profit:    +5.30)
+------------------------------------------------------------
+
+✨ COLLECTION: The Anubis Collection
+👉 CONTRAT: 10x MAC-10 | Echoing Sands (BS)
+   Float requis: < 0.5007 (Adj: 0.62)
+   COÛT TOTAL: 14.00 | EV: 15.84 | PROFIT MOYEN: +1.84 | ROI: 13.2%
+   DROP TABLE (Valeur nette vs Coût contrat de 14.00):
+     🟢 AWP | Black Nile          (BS):    23.79 (Profit:    +9.79)
+     🔴 Tec-9 | Mummy's Rot       (BS):    10.42 (Profit:    -3.58)
+     🔴 MAG-7 | Copper Coated     (BS):     9.86 (Profit:    -4.14)
+     🟢 AK-47 | Steel Delta       (WW):    19.30 (Profit:    +5.30)
+------------------------------------------------------------
+
+✨ COLLECTION: Limited Edition Item
+👉 CONTRAT: 10x Desert Eagle | Heat Treated (FT)
+   Float requis: < 0.3799 (Adj: 0.38) (Incl. overpay FT: +0.01)
+   COÛT TOTAL: 146.09 | EV: 187.08 | PROFIT MOYEN: +40.99 | ROI: 28.1%
+   DROP TABLE (Valeur nette vs Coût contrat de 146.09):
+     🟢 AK-47 | Aphrodite         (FT):   187.08 (Profit:   +40.99)
+------------------------------------------------------------
+
+✨ COLLECTION: Limited Edition Item
+👉 CONTRAT: 10x Desert Eagle | Heat Treated (WW)
+   Float requis: < 0.4499 (Adj: 0.45)
+   COÛT TOTAL: 85.00 | EV: 108.03 | PROFIT MOYEN: +23.03 | ROI: 27.1%
+   DROP TABLE (Valeur nette vs Coût contrat de 85.00):
+     🟢 AK-47 | Aphrodite         (WW):   108.03 (Profit:   +23.03)
+------------------------------------------------------------
+
+✨ COLLECTION: The eSports 2013 Winter Collection
+👉 CONTRAT: 10x Nova | Ghost Camo (FT)
+   Float requis: < 0.3600 (Adj: 0.90) (Incl. overpay FT: +0.31)
+   COÛT TOTAL: 108.32 | EV: 338.51 | PROFIT MOYEN: +230.19 | ROI: 212.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 108.32):
+     🔴 AK-47 | Blue Laminate     (FT):   103.35 (Profit:    -4.97)
+     🟢 P90 | Blind Spot          (WW):   573.67 (Profit:  +465.35)
+------------------------------------------------------------
+
+✨ COLLECTION: The eSports 2013 Winter Collection
+👉 CONTRAT: 10x G3SG1 | Azure Zebra (FT)
+   Float requis: < 0.2520 (Adj: 0.90) (Incl. overpay FT: +0.86)
+   COÛT TOTAL: 117.74 | EV: 338.51 | PROFIT MOYEN: +220.77 | ROI: 187.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 117.74):
+     🔴 AK-47 | Blue Laminate     (FT):   103.35 (Profit:   -14.39)
+     🟢 P90 | Blind Spot          (WW):   573.67 (Profit:  +455.93)
+------------------------------------------------------------
+
+✨ COLLECTION: The eSports 2013 Winter Collection
+👉 CONTRAT: 10x P250 | Steel Disruption (FT)
+   Float requis: < 0.1800 (Adj: 0.90) (Incl. overpay FT: +1.19)
+   COÛT TOTAL: 184.70 | EV: 338.51 | PROFIT MOYEN: +153.81 | ROI: 83.3%
+   DROP TABLE (Valeur nette vs Coût contrat de 184.70):
+     🔴 AK-47 | Blue Laminate     (FT):   103.35 (Profit:   -81.35)
+     🟢 P90 | Blind Spot          (WW):   573.67 (Profit:  +388.97)
+------------------------------------------------------------
+
+✨ COLLECTION: The 2018 Inferno Collection
+👉 CONTRAT: 10x M4A4 | Converter (MW)
+   Float requis: < 0.1000 (Adj: 0.25)
+   COÛT TOTAL: 58.40 | EV: 69.87 | PROFIT MOYEN: +11.47 | ROI: 19.6%
+   DROP TABLE (Valeur nette vs Coût contrat de 58.40):
+     🟢 MP7 | Fade                (FN):   165.75 (Profit:  +107.35)
+     🔴 P250 | Vino Primo         (FT):     8.97 (Profit:   -49.43)
+     🔴 AK-47 | Safety Net        (MW):    34.89 (Profit:   -23.51)
+------------------------------------------------------------
+
+✨ COLLECTION: The 2018 Inferno Collection
+👉 CONTRAT: 10x M4A4 | Converter (MW)
+   Float requis: < 0.1120 (Adj: 0.28)
+   COÛT TOTAL: 58.40 | EV: 65.23 | PROFIT MOYEN: +6.83 | ROI: 11.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 58.40):
+     🟢 MP7 | Fade                (FN):   165.75 (Profit:  +107.35)
+     🔴 P250 | Vino Primo         (FT):     8.97 (Profit:   -49.43)
+     🔴 AK-47 | Safety Net        (FT):    20.96 (Profit:   -37.44)
+------------------------------------------------------------
+
+✨ COLLECTION: The Radiant Collection
+👉 CONTRAT: 10x Glock-18 | Coral Bloom (BS)
+   Float requis: < 0.4517 (Adj: 0.60)
+   COÛT TOTAL: 27.30 | EV: 32.47 | PROFIT MOYEN: +5.17 | ROI: 18.9%
+   DROP TABLE (Valeur nette vs Coût contrat de 27.30):
+     🟢 Desert Eagle | Mulberry   (WW):    39.98 (Profit:   +12.68)
+     🟢 M4A1-S | Glitched Paint   (WW):    35.10 (Profit:    +7.80)
+     🔴 USP-S | Bleeding Edge     (FT):    22.33 (Profit:    -4.97)
+------------------------------------------------------------
+
+✨ COLLECTION: The Achroma Collection
+👉 CONTRAT: 10x P90 | Aeolian Light (FT)
+   Float requis: < 0.3528 (Adj: 0.54) (Incl. overpay FT: +1.13)
+   COÛT TOTAL: 81.17 | EV: 93.36 | PROFIT MOYEN: +12.19 | ROI: 15.0%
+   DROP TABLE (Valeur nette vs Coût contrat de 81.17):
+     🔴 Glock-18 | Trace Lock     (FT):    39.49 (Profit:   -41.68)
+     🟢 AK-47 | Breakthrough      (WW):   147.22 (Profit:   +66.05)
+------------------------------------------------------------
+
+✨ COLLECTION: The Achroma Collection
+👉 CONTRAT: 10x P90 | Aeolian Light (WW)
+   Float requis: < 0.3899 (Adj: 0.60)
+   COÛT TOTAL: 69.80 | EV: 99.45 | PROFIT MOYEN: +29.65 | ROI: 42.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 69.80):
+     🔴 Glock-18 | Trace Lock     (WW):    51.67 (Profit:   -18.13)
+     🟢 AK-47 | Breakthrough      (WW):   147.22 (Profit:   +77.42)
+------------------------------------------------------------
+
+✨ COLLECTION: The Achroma Collection
+👉 CONTRAT: 10x AUG | Creep (BS)
+   Float requis: < 0.4799 (Adj: 0.60)
+   COÛT TOTAL: 67.90 | EV: 99.45 | PROFIT MOYEN: +31.55 | ROI: 46.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 67.90):
+     🔴 Glock-18 | Trace Lock     (WW):    51.67 (Profit:   -16.23)
+     🟢 AK-47 | Breakthrough      (WW):   147.22 (Profit:   +79.32)
+------------------------------------------------------------
+
+✨ COLLECTION: The Achroma Collection
+👉 CONTRAT: 10x P2000 | Grip Tape (WW)
+   Float requis: < 0.4071 (Adj: 0.54)
+   COÛT TOTAL: 75.00 | EV: 93.36 | PROFIT MOYEN: +18.36 | ROI: 24.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 75.00):
+     🔴 Glock-18 | Trace Lock     (FT):    39.49 (Profit:   -35.51)
+     🟢 AK-47 | Breakthrough      (WW):   147.22 (Profit:   +72.22)
+------------------------------------------------------------
+
+✨ COLLECTION: The Achroma Collection
+👉 CONTRAT: 10x P2000 | Grip Tape (WW)
+   Float requis: < 0.4499 (Adj: 0.60)
+   COÛT TOTAL: 75.00 | EV: 99.45 | PROFIT MOYEN: +24.45 | ROI: 32.6%
+   DROP TABLE (Valeur nette vs Coût contrat de 75.00):
+     🔴 Glock-18 | Trace Lock     (WW):    51.67 (Profit:   -23.33)
+     🟢 AK-47 | Breakthrough      (WW):   147.22 (Profit:   +72.22)
+------------------------------------------------------------
+
+✨ COLLECTION: The Achroma Collection
+👉 CONTRAT: 10x P2000 | Grip Tape (BS)
+   Float requis: < 0.4821 (Adj: 0.64)
+   COÛT TOTAL: 65.00 | EV: 74.59 | PROFIT MOYEN: +9.59 | ROI: 14.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 65.00):
+     🔴 Glock-18 | Trace Lock     (WW):    51.67 (Profit:   -13.33)
+     🟢 AK-47 | Breakthrough      (BS):    97.50 (Profit:   +32.50)
+------------------------------------------------------------
+
+✨ COLLECTION: The Boreal Collection
+👉 CONTRAT: 10x MAC-10 | Poplar Thicket (BS)
+   Float requis: < 0.4566 (Adj: 0.67)
+   COÛT TOTAL: 11.90 | EV: 13.48 | PROFIT MOYEN: +1.58 | ROI: 13.3%
+   DROP TABLE (Valeur nette vs Coût contrat de 11.90):
+     🟢 M4A4 | Sheet Lightning    (BS):    12.46 (Profit:    +0.56)
+     🟢 Glock-18 | Glockingbird   (WW):    14.51 (Profit:    +2.61)
+------------------------------------------------------------
+
+✨ COLLECTION: The Train 2025 Collection
+👉 CONTRAT: 10x Glock-18 | Green Line (BS)
+   Float requis: < 0.5428 (Adj: 0.54)
+   COÛT TOTAL: 21.70 | EV: 24.18 | PROFIT MOYEN: +2.48 | ROI: 11.4%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.70):
+     🟢 Tec-9 | Whiteout          (BS):    22.91 (Profit:    +1.21)
+     🟢 Zeus x27 | Charged Up     (BS):    22.31 (Profit:    +0.61)
+     🟢 MAC-10 | Derailment       (FT):    27.33 (Profit:    +5.63)
+------------------------------------------------------------
+
+✨ COLLECTION: The Train 2025 Collection
+👉 CONTRAT: 10x Glock-18 | Green Line (BS)
+   Float requis: < 0.6428 (Adj: 0.64)
+   COÛT TOTAL: 21.70 | EV: 24.04 | PROFIT MOYEN: +2.34 | ROI: 10.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.70):
+     🟢 Tec-9 | Whiteout          (BS):    22.91 (Profit:    +1.21)
+     🟢 Zeus x27 | Charged Up     (BS):    22.31 (Profit:    +0.61)
+     🟢 MAC-10 | Derailment       (WW):    26.91 (Profit:    +5.21)
+------------------------------------------------------------
+
+✨ COLLECTION: The Train 2025 Collection
+👉 CONTRAT: 10x XM1014 | Run Run Run (BS)
+   Float requis: < 0.4799 (Adj: 0.64)
+   COÛT TOTAL: 21.50 | EV: 24.04 | PROFIT MOYEN: +2.54 | ROI: 11.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.50):
+     🟢 Tec-9 | Whiteout          (BS):    22.91 (Profit:    +1.41)
+     🟢 Zeus x27 | Charged Up     (BS):    22.31 (Profit:    +0.81)
+     🟢 MAC-10 | Derailment       (WW):    26.91 (Profit:    +5.41)
+------------------------------------------------------------
+
+✨ COLLECTION: The Train 2025 Collection
+👉 CONTRAT: 10x FAMAS | 2A2F (BS)
+   Float requis: < 0.4668 (Adj: 0.54)
+   COÛT TOTAL: 21.00 | EV: 24.18 | PROFIT MOYEN: +3.18 | ROI: 15.2%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.00):
+     🟢 Tec-9 | Whiteout          (BS):    22.91 (Profit:    +1.91)
+     🟢 Zeus x27 | Charged Up     (BS):    22.31 (Profit:    +1.31)
+     🟢 MAC-10 | Derailment       (FT):    27.33 (Profit:    +6.33)
+------------------------------------------------------------
+
+✨ COLLECTION: The Train 2025 Collection
+👉 CONTRAT: 10x FAMAS | 2A2F (BS)
+   Float requis: < 0.5528 (Adj: 0.64)
+   COÛT TOTAL: 21.00 | EV: 24.04 | PROFIT MOYEN: +3.04 | ROI: 14.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.00):
+     🟢 Tec-9 | Whiteout          (BS):    22.91 (Profit:    +1.91)
+     🟢 Zeus x27 | Charged Up     (BS):    22.31 (Profit:    +1.31)
+     🟢 MAC-10 | Derailment       (WW):    26.91 (Profit:    +5.91)
+------------------------------------------------------------
+
+✨ COLLECTION: The Train 2025 Collection
+👉 CONTRAT: 10x UMP-45 | Late Night Transit (BS)
+   Float requis: < 0.5428 (Adj: 0.54)
+   COÛT TOTAL: 21.00 | EV: 24.18 | PROFIT MOYEN: +3.18 | ROI: 15.2%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.00):
+     🟢 Tec-9 | Whiteout          (BS):    22.91 (Profit:    +1.91)
+     🟢 Zeus x27 | Charged Up     (BS):    22.31 (Profit:    +1.31)
+     🟢 MAC-10 | Derailment       (FT):    27.33 (Profit:    +6.33)
+------------------------------------------------------------
+
+✨ COLLECTION: The Train 2025 Collection
+👉 CONTRAT: 10x UMP-45 | Late Night Transit (BS)
+   Float requis: < 0.6428 (Adj: 0.64)
+   COÛT TOTAL: 21.00 | EV: 24.04 | PROFIT MOYEN: +3.04 | ROI: 14.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 21.00):
+     🟢 Tec-9 | Whiteout          (BS):    22.91 (Profit:    +1.91)
+     🟢 Zeus x27 | Charged Up     (BS):    22.31 (Profit:    +1.31)
+     🟢 MAC-10 | Derailment       (WW):    26.91 (Profit:    +5.91)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x Five-SeveN | Contractor (WW)
+   Float requis: < 0.3929 (Adj: 0.45)
+   COÛT TOTAL: 280.90 | EV: 310.86 | PROFIT MOYEN: +29.96 | ROI: 10.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 280.90):
+     🔴 SG 553 | Gator Mesh       (FT):   190.37 (Profit:   -90.53)
+     🔴 Negev | CaliCamo          (FT):   194.42 (Profit:   -86.48)
+     🔴 SSG 08 | Tropical Storm   (WW):     0.00 (Profit:  -280.90)
+     🔴 MP7 | Orange Peel         (WW):   194.50 (Profit:   -86.40)
+     🟢 Glock-18 | Groundwater    (WW):   975.00 (Profit:  +694.10)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x Five-SeveN | Contractor (WW)
+   Float requis: < 0.4499 (Adj: 0.53)
+   COÛT TOTAL: 280.90 | EV: 310.86 | PROFIT MOYEN: +29.96 | ROI: 10.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 280.90):
+     🔴 SG 553 | Gator Mesh       (FT):   190.37 (Profit:   -90.53)
+     🔴 Negev | CaliCamo          (FT):   194.42 (Profit:   -86.48)
+     🔴 SSG 08 | Tropical Storm   (WW):     0.00 (Profit:  -280.90)
+     🔴 MP7 | Orange Peel         (WW):   194.50 (Profit:   -86.40)
+     🟢 Glock-18 | Groundwater    (WW):   975.00 (Profit:  +694.10)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x P90 | Scorched (BS)
+   Float requis: < 0.5286 (Adj: 0.63)
+   COÛT TOTAL: 177.70 | EV: 205.56 | PROFIT MOYEN: +27.86 | ROI: 15.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 177.70):
+     🟢 SG 553 | Gator Mesh       (FT):   190.37 (Profit:   +12.67)
+     🟢 Negev | CaliCamo          (FT):   194.42 (Profit:   +16.72)
+     🟢 SSG 08 | Tropical Storm   (BS):   253.50 (Profit:   +75.80)
+     🟢 MP7 | Orange Peel         (BS):   194.50 (Profit:   +16.80)
+     🟢 Glock-18 | Groundwater    (BS):   194.99 (Profit:   +17.29)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x G3SG1 | Safari Mesh (FT)
+   Float requis: < 0.2449 (Adj: 0.25) (Incl. overpay FT: +2.36)
+   COÛT TOTAL: 241.73 | EV: 293.94 | PROFIT MOYEN: +52.21 | ROI: 21.6%
+   DROP TABLE (Valeur nette vs Coût contrat de 241.73):
+     🟢 SG 553 | Gator Mesh       (MW):   243.74 (Profit:    +2.01)
+     🟢 Negev | CaliCamo          (MW):   698.10 (Profit:  +456.37)
+     🔴 SSG 08 | Tropical Storm   (FT):   163.99 (Profit:   -77.75)
+     🔴 MP7 | Orange Peel         (FT):   179.89 (Profit:   -61.84)
+     🔴 Glock-18 | Groundwater    (FT):   183.99 (Profit:   -57.74)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x G3SG1 | Safari Mesh (WW)
+   Float requis: < 0.3929 (Adj: 0.45)
+   COÛT TOTAL: 266.00 | EV: 310.86 | PROFIT MOYEN: +44.86 | ROI: 16.9%
+   DROP TABLE (Valeur nette vs Coût contrat de 266.00):
+     🔴 SG 553 | Gator Mesh       (FT):   190.37 (Profit:   -75.63)
+     🔴 Negev | CaliCamo          (FT):   194.42 (Profit:   -71.58)
+     🔴 SSG 08 | Tropical Storm   (WW):     0.00 (Profit:  -266.00)
+     🔴 MP7 | Orange Peel         (WW):   194.50 (Profit:   -71.50)
+     🟢 Glock-18 | Groundwater    (WW):   975.00 (Profit:  +709.00)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x G3SG1 | Safari Mesh (WW)
+   Float requis: < 0.4499 (Adj: 0.53)
+   COÛT TOTAL: 266.00 | EV: 310.86 | PROFIT MOYEN: +44.86 | ROI: 16.9%
+   DROP TABLE (Valeur nette vs Coût contrat de 266.00):
+     🔴 SG 553 | Gator Mesh       (FT):   190.37 (Profit:   -75.63)
+     🔴 Negev | CaliCamo          (FT):   194.42 (Profit:   -71.58)
+     🔴 SSG 08 | Tropical Storm   (WW):     0.00 (Profit:  -266.00)
+     🔴 MP7 | Orange Peel         (WW):   194.50 (Profit:   -71.50)
+     🟢 Glock-18 | Groundwater    (WW):   975.00 (Profit:  +709.00)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x Galil AR | Hunting Blind (MW)
+   Float requis: < 0.1499 (Adj: 0.25)
+   COÛT TOTAL: 245.30 | EV: 293.94 | PROFIT MOYEN: +48.64 | ROI: 19.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 245.30):
+     🔴 SG 553 | Gator Mesh       (MW):   243.74 (Profit:    -1.56)
+     🟢 Negev | CaliCamo          (MW):   698.10 (Profit:  +452.80)
+     🔴 SSG 08 | Tropical Storm   (FT):   163.99 (Profit:   -81.31)
+     🔴 MP7 | Orange Peel         (FT):   179.89 (Profit:   -65.41)
+     🔴 Glock-18 | Groundwater    (FT):   183.99 (Profit:   -61.31)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x Galil AR | Hunting Blind (FT)
+   Float requis: < 0.2699 (Adj: 0.45) (Incl. overpay FT: +0.42)
+   COÛT TOTAL: 238.51 | EV: 310.86 | PROFIT MOYEN: +72.35 | ROI: 30.3%
+   DROP TABLE (Valeur nette vs Coût contrat de 238.51):
+     🔴 SG 553 | Gator Mesh       (FT):   190.37 (Profit:   -48.14)
+     🔴 Negev | CaliCamo          (FT):   194.42 (Profit:   -44.09)
+     🔴 SSG 08 | Tropical Storm   (WW):     0.00 (Profit:  -238.51)
+     🔴 MP7 | Orange Peel         (WW):   194.50 (Profit:   -44.01)
+     🟢 Glock-18 | Groundwater    (WW):   975.00 (Profit:  +736.49)
+------------------------------------------------------------
+
+✨ COLLECTION: The Mirage Collection
+👉 CONTRAT: 10x Galil AR | Hunting Blind (FT)
+   Float requis: < 0.3162 (Adj: 0.53) (Incl. overpay FT: +0.24)
+   COÛT TOTAL: 236.74 | EV: 310.86 | PROFIT MOYEN: +74.12 | ROI: 31.3%
+   DROP TABLE (Valeur nette vs Coût contrat de 236.74):
+     🔴 SG 553 | Gator Mesh       (FT):   190.37 (Profit:   -46.37)
+     🔴 Negev | CaliCamo          (FT):   194.42 (Profit:   -42.32)
+     🔴 SSG 08 | Tropical Storm   (WW):     0.00 (Profit:  -236.74)
+     🔴 MP7 | Orange Peel         (WW):   194.50 (Profit:   -42.24)
+     🟢 Glock-18 | Groundwater    (WW):   975.00 (Profit:  +738.26)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass Collection
+👉 CONTRAT: 10x Desert Eagle | Urban DDPAT (BS)
+   Float requis: < 0.6223 (Adj: 0.76)
+   COÛT TOTAL: 155.90 | EV: 218.46 | PROFIT MOYEN: +62.56 | ROI: 40.1%
+   DROP TABLE (Valeur nette vs Coût contrat de 155.90):
+     🟢 CZ75-Auto | Nitro         (BS):   476.77 (Profit:  +320.88)
+     🔴 XM1014 | VariCamo Blue    (FT):    96.13 (Profit:   -59.77)
+     🔴 SSG 08 | Detour           (FT):    82.48 (Profit:   -73.42)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass Collection
+👉 CONTRAT: 10x Desert Eagle | Urban DDPAT (BS)
+   Float requis: < 0.7139 (Adj: 0.88)
+   COÛT TOTAL: 155.90 | EV: 235.17 | PROFIT MOYEN: +79.27 | ROI: 50.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 155.90):
+     🟢 CZ75-Auto | Nitro         (BS):   476.77 (Profit:  +320.88)
+     🔴 XM1014 | VariCamo Blue    (WW):   146.24 (Profit:    -9.66)
+     🔴 SSG 08 | Detour           (FT):    82.48 (Profit:   -73.42)
+------------------------------------------------------------
+
+✨ COLLECTION: The Overpass Collection
+👉 CONTRAT: 10x Desert Eagle | Urban DDPAT (BS)
+   Float requis: < 0.7259 (Adj: 0.90)
+   COÛT TOTAL: 155.90 | EV: 207.67 | PROFIT MOYEN: +51.77 | ROI: 33.2%
+   DROP TABLE (Valeur nette vs Coût contrat de 155.90):
+     🟢 CZ75-Auto | Nitro         (BS):   476.77 (Profit:  +320.88)
+     🔴 XM1014 | VariCamo Blue    (WW):   146.24 (Profit:    -9.66)
+     🔴 SSG 08 | Detour           (WW):     0.00 (Profit:  -155.90)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x MP5-SD | Picnic (WW)
+   Float requis: < 0.4317 (Adj: 0.58)
+   COÛT TOTAL: 10.00 | EV: 12.48 | PROFIT MOYEN: +2.48 | ROI: 24.8%
+   DROP TABLE (Valeur nette vs Coût contrat de 10.00):
+     🔴 Zeus x27 | Earth Mandala  (FT):     9.25 (Profit:    -0.75)
+     🟢 UMP-45 | Warm Blooded     (WW):    12.38 (Profit:    +2.38)
+     🟢 Galil AR | Sky Mandala    (WW):    17.55 (Profit:    +7.55)
+     🟢 Five-SeveN | Fraise Crane (FT):    10.72 (Profit:    +0.72)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x MP5-SD | Picnic (WW)
+   Float requis: < 0.4384 (Adj: 0.58)
+   COÛT TOTAL: 10.00 | EV: 13.55 | PROFIT MOYEN: +3.55 | ROI: 35.5%
+   DROP TABLE (Valeur nette vs Coût contrat de 10.00):
+     🟢 Zeus x27 | Earth Mandala  (WW):    13.55 (Profit:    +3.55)
+     🟢 UMP-45 | Warm Blooded     (WW):    12.38 (Profit:    +2.38)
+     🟢 Galil AR | Sky Mandala    (WW):    17.55 (Profit:    +7.55)
+     🟢 Five-SeveN | Fraise Crane (FT):    10.72 (Profit:    +0.72)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x MP5-SD | Picnic (BS)
+   Float requis: < 0.4821 (Adj: 0.64)
+   COÛT TOTAL: 7.90 | EV: 14.50 | PROFIT MOYEN: +6.60 | ROI: 83.6%
+   DROP TABLE (Valeur nette vs Coût contrat de 7.90):
+     🟢 Zeus x27 | Earth Mandala  (WW):    13.55 (Profit:    +5.65)
+     🟢 UMP-45 | Warm Blooded     (WW):    12.38 (Profit:    +4.48)
+     🟢 Galil AR | Sky Mandala    (WW):    17.55 (Profit:    +9.65)
+     🟢 Five-SeveN | Fraise Crane (WW):    14.53 (Profit:    +6.63)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x MP5-SD | Picnic (BS)
+   Float requis: < 0.5113 (Adj: 0.68)
+   COÛT TOTAL: 7.90 | EV: 10.82 | PROFIT MOYEN: +2.92 | ROI: 37.0%
+   DROP TABLE (Valeur nette vs Coût contrat de 7.90):
+     🟢 Zeus x27 | Earth Mandala  (WW):    13.55 (Profit:    +5.65)
+     🔴 UMP-45 | Warm Blooded     (BS):     7.78 (Profit:    -0.12)
+     🔴 Galil AR | Sky Mandala    (BS):     7.44 (Profit:    -0.46)
+     🟢 Five-SeveN | Fraise Crane (WW):    14.53 (Profit:    +6.63)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x MP5-SD | Picnic (BS)
+   Float requis: < 0.5192 (Adj: 0.69)
+   COÛT TOTAL: 7.90 | EV: 9.14 | PROFIT MOYEN: +1.24 | ROI: 15.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 7.90):
+     🔴 Zeus x27 | Earth Mandala  (BS):     6.81 (Profit:    -1.09)
+     🔴 UMP-45 | Warm Blooded     (BS):     7.78 (Profit:    -0.12)
+     🔴 Galil AR | Sky Mandala    (BS):     7.44 (Profit:    -0.46)
+     🟢 Five-SeveN | Fraise Crane (WW):    14.53 (Profit:    +6.63)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x SSG 08 | Calligrafaux (BS)
+   Float requis: < 0.5428 (Adj: 0.54)
+   COÛT TOTAL: 9.50 | EV: 10.70 | PROFIT MOYEN: +1.20 | ROI: 12.6%
+   DROP TABLE (Valeur nette vs Coût contrat de 9.50):
+     🔴 Zeus x27 | Earth Mandala  (FT):     9.25 (Profit:    -0.25)
+     🔴 UMP-45 | Warm Blooded     (FT):     8.68 (Profit:    -0.82)
+     🟢 Galil AR | Sky Mandala    (FT):    14.14 (Profit:    +4.64)
+     🟢 Five-SeveN | Fraise Crane (FT):    10.72 (Profit:    +1.22)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x SSG 08 | Calligrafaux (BS)
+   Float requis: < 0.5757 (Adj: 0.58)
+   COÛT TOTAL: 9.50 | EV: 12.48 | PROFIT MOYEN: +2.98 | ROI: 31.3%
+   DROP TABLE (Valeur nette vs Coût contrat de 9.50):
+     🔴 Zeus x27 | Earth Mandala  (FT):     9.25 (Profit:    -0.25)
+     🟢 UMP-45 | Warm Blooded     (WW):    12.38 (Profit:    +2.88)
+     🟢 Galil AR | Sky Mandala    (WW):    17.55 (Profit:    +8.05)
+     🟢 Five-SeveN | Fraise Crane (FT):    10.72 (Profit:    +1.22)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x SSG 08 | Calligrafaux (BS)
+   Float requis: < 0.5845 (Adj: 0.58)
+   COÛT TOTAL: 9.50 | EV: 13.55 | PROFIT MOYEN: +4.05 | ROI: 42.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 9.50):
+     🟢 Zeus x27 | Earth Mandala  (WW):    13.55 (Profit:    +4.05)
+     🟢 UMP-45 | Warm Blooded     (WW):    12.38 (Profit:    +2.88)
+     🟢 Galil AR | Sky Mandala    (WW):    17.55 (Profit:    +8.05)
+     🟢 Five-SeveN | Fraise Crane (FT):    10.72 (Profit:    +1.22)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x SSG 08 | Calligrafaux (BS)
+   Float requis: < 0.6428 (Adj: 0.64)
+   COÛT TOTAL: 9.50 | EV: 14.50 | PROFIT MOYEN: +5.00 | ROI: 52.7%
+   DROP TABLE (Valeur nette vs Coût contrat de 9.50):
+     🟢 Zeus x27 | Earth Mandala  (WW):    13.55 (Profit:    +4.05)
+     🟢 UMP-45 | Warm Blooded     (WW):    12.38 (Profit:    +2.88)
+     🟢 Galil AR | Sky Mandala    (WW):    17.55 (Profit:    +8.05)
+     🟢 Five-SeveN | Fraise Crane (WW):    14.53 (Profit:    +5.03)
+------------------------------------------------------------
+
+✨ COLLECTION: The Harlequin Collection
+👉 CONTRAT: 10x SSG 08 | Calligrafaux (BS)
+   Float requis: < 0.6817 (Adj: 0.68)
+   COÛT TOTAL: 9.50 | EV: 10.82 | PROFIT MOYEN: +1.32 | ROI: 13.9%
+   DROP TABLE (Valeur nette vs Coût contrat de 9.50):
+     🟢 Zeus x27 | Earth Mandala  (WW):    13.55 (Profit:    +4.05)
+     🔴 UMP-45 | Warm Blooded     (BS):     7.78 (Profit:    -1.72)
+     🔴 Galil AR | Sky Mandala    (BS):     7.44 (Profit:    -2.06)
+     🟢 Five-SeveN | Fraise Crane (WW):    14.53 (Profit:    +5.03)
+------------------------------------------------------------
+
+✨ COLLECTION: The Glove Collection
+👉 CONTRAT: 10x Dual Berettas | Royal Consorts (BS)
+   Float requis: < 0.5066 (Adj: 0.51)
+   COÛT TOTAL: 240.00 | EV: 266.33 | PROFIT MOYEN: +26.33 | ROI: 11.0%
+   DROP TABLE (Valeur nette vs Coût contrat de 240.00):
+     🟢 P90 | Shallow Grave       (FT):   268.12 (Profit:   +28.12)
+     🟢 Sawed-Off | Wasteland Pri (FT):   267.63 (Profit:   +27.63)
+     🟢 FAMAS | Mecha Industries  (FT):   263.25 (Profit:   +23.25)
+------------------------------------------------------------
