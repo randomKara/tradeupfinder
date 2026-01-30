@@ -3,6 +3,9 @@ import json
 import os
 import re
 from datetime import datetime
+import sys
+sys.stdout.reconfigure(encoding="utf-16")
+
 
 # --- CONFIGURATION ---
 DB_NAME = "cs2_skins.db"
@@ -114,7 +117,7 @@ def update_prices():
     cursor = conn.cursor()
     init_price_tables(cursor)
 
-    with open(PRICE_FILE, 'r', encoding='utf-8') as f:
+    with open(PRICE_FILE, 'r', encoding='utf-16') as f:
         data = json.load(f)
 
     items = data.get('info', []) # Note: l'API Buff renvoie souvent 'items' ou 'items_list'

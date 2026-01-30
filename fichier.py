@@ -2,14 +2,15 @@ import sqlite3
 
 # --- CONFIGURATION ---
 DB_NAME = "cs2_skins.db"
+RMB_TO_USD_RATE = 0.1439
 STEAM_FEE = 0.975          
 MIN_ROI = 10.0            
 MIN_INPUT_ADJ_FLOAT = 0.20 
-MIN_OUTPUT_PRICE = 40.0    
-MAX_OUTPUT_PRICE = 5000.0 
+MIN_OUTPUT_PRICE = 5.0     
+MAX_OUTPUT_PRICE = 250.0   
 
 # --- RÉGLAGES AVANCÉS ---
-ENABLE_STATTRAK = False    # Changez en True pour inclure les StatTrak
+ENABLE_STATTRAK = True    # Changez en True pour inclure les StatTrak
 FT_PENALTY_MAX_RATIO = 0.8 # À 0.151, on ajoute 80% de la diff FT/MW
 
 def get_condition_code(f):
@@ -21,26 +22,48 @@ def get_condition_code(f):
 
 def calculate_premium_price(real_f, base_price, skin_prices):
     """
-    Simule l'overpay pour les low floats en FT.
-    Si FT et float < 0.38, on ajoute une partie de la différence avec le prix MW.
+    Simule l'overpay pour les low floats en FT, MW et BS.
+    L'overpay ne commence qu'après une certaine deadzone (20% par défaut).
     """
     cond = get_condition_code(real_f)
     
+    target_cond = None
+    start_f, end_f = 0.0, 0.0
+    deadzone = 0.20
+
     if cond == "FT" and real_f < 0.38:
-        price_mw = skin_prices.get("MW")
-        if price_mw and price_mw > base_price:
-            # Calcul de la progression entre 0.38 (0%) et 0.15 (100%)
-            # factor sera proche de 1.0 si real_f est proche de 0.15
-            factor = (0.38 - real_f) / (0.38 - 0.15)
-            factor = max(0, min(1, factor)) # Sécurité
+        target_cond = "MW"
+        start_f, end_f = 0.38, 0.15
+    elif cond == "MW" and real_f < 0.15:
+        target_cond = "FN"
+        start_f, end_f = 0.15, 0.07
+    elif cond == "BS" and real_f < 0.6:
+        # Pour le BS, on commence l'overpay directement à 0.6 vers le prix WW
+        target_cond = "WW"
+        start_f, end_f = 0.6, 0.45
+        deadzone = 0.0 # Seuil personnalisé à 0.6
+    
+    if target_cond:
+        target_price = skin_prices.get(target_cond)
+        if target_price and target_price > base_price:
+            # Progression: 0.0 (Worst float) -> 1.0 (Best float for condition)
+            factor = (start_f - real_f) / (start_f - end_f)
+            factor = max(0, min(1, factor))
+
+            # Application de la deadzone
+            if factor <= deadzone:
+                factor = 0
+            else:
+                # Rescale pour que l'augmentation soit progressive après la deadzone
+                factor = (factor - deadzone) / (1.0 - deadzone)
             
-            penalty = (price_mw - base_price) * (factor * FT_PENALTY_MAX_RATIO)
-            return base_price + penalty
+            premium = (target_price - base_price) * (factor * FT_PENALTY_MAX_RATIO)
+            return base_price + premium
             
     return base_price
 
 def calculate_thresholds(outputs):
-    thresholds = {0.0699, 0.1499, 0.3799, 0.4499} 
+    thresholds = {0.0699, 0.1499, 0.3799, 0.4499}
     for skin in outputs:
         if skin['max_price'] > MAX_OUTPUT_PRICE or skin['max_price'] < MIN_OUTPUT_PRICE:
             return None
@@ -63,6 +86,8 @@ def run_scanner():
 
     # Gestion réversible des StatTrak
     st_list = [0, 1] if ENABLE_STATTRAK else [0]
+    
+    results = []
 
     for coll in collections:
         for rarity_rank in range(1, 6):
@@ -88,6 +113,11 @@ def run_scanner():
 
                 if not inputs or not outputs: continue
 
+                # Conversion des prix output (max_price) en USD pour le filtrage
+                for out in outputs:
+                    if out['max_price'] is not None:
+                        out['max_price'] *= RMB_TO_USD_RATE
+
                 magic_floats = calculate_thresholds(outputs)
                 if magic_floats is None: continue 
 
@@ -97,7 +127,16 @@ def run_scanner():
                 for row in cursor.fetchall():
                     sid = row['skin_id']
                     if sid not in all_prices: all_prices[sid] = {}
-                    all_prices[sid][row['condition']] = row['price']
+                    # Conversion directe en USD lors du chargement
+                    all_prices[sid][row['condition']] = row['price'] * RMB_TO_USD_RATE
+                
+                # Correction des prix WW irréalistes
+                for sid in all_prices:
+                    p = all_prices[sid]
+                    if "WW" in p and "BS" in p:
+                        # Si le prix WW est > 1.5x le prix BS, on le plafonne à 1.2x
+                        if p["WW"] > p["BS"] * 1.5:
+                            p["WW"] = p["BS"] * 1.2
 
                 for inp in inputs:
                     inp_prices = all_prices.get(inp['id'], {})
@@ -139,19 +178,39 @@ def run_scanner():
                         roi = (profit_moyen / total_cost) * 100 if total_cost > 0 else 0
                         
                         if roi >= MIN_ROI:
-                            st_tag = "[ST] " if is_st else ""
-                            penalty_warn = f" (Incl. overpay FT: {buy_price-base_buy_price:+.2f})" if buy_price > base_buy_price else ""
-                            
-                            print(f"\n✨ COLLECTION: {coll['name']}")
-                            print(f"👉 CONTRAT: 10x {st_tag}{inp['market_hash_name']} ({buy_cond})")
-                            print(f"   Float requis: < {real_f:.4f} (Adj: {adj_target:.2f}){penalty_warn}")
-                            print(f"   COÛT TOTAL: {total_cost:.2f} | EV: {total_ev:.2f} | PROFIT MOYEN: {profit_moyen:+.2f} | ROI: {roi:.1f}%")
-                            print(f"   DROP TABLE (Valeur nette vs Coût contrat de {total_cost:.2f}):")
-                            
-                            for d in drop_table:
-                                color_symbol = "🟢" if d['diff'] >= 0 else "🔴"
-                                print(f"     {color_symbol} {d['name'][:25]:<25} ({d['cond']}): {d['val']:>8.2f} (Profit: {d['diff']:>+8.2f})")
-                            print("-" * 60)
+                            results.append({
+                                'coll_name': coll['name'],
+                                'is_st': is_st,
+                                'inp_name': inp['market_hash_name'],
+                                'buy_cond': buy_cond,
+                                'real_f': real_f,
+                                'adj_target': adj_target,
+                                'buy_price': buy_price,
+                                'base_buy_price': base_buy_price,
+                                'total_cost': total_cost,
+                                'total_ev': total_ev,
+                                'profit_moyen': profit_moyen,
+                                'roi': roi,
+                                'drop_table': drop_table
+                            })
+
+    # Tri par profit moyen décroissant
+    results.sort(key=lambda x: x['profit_moyen'], reverse=True)
+
+    for res in results:
+        st_tag = "[ST] " if res['is_st'] else ""
+        penalty_warn = f" (Incl. overpay FT: {res['buy_price']-res['base_buy_price']:+.2f})" if res['buy_price'] > res['base_buy_price'] else ""
+        
+        print(f"\n✨ COLLECTION: {res['coll_name']}")
+        print(f"👉 CONTRAT: 10x {st_tag}{res['inp_name']} ({res['buy_cond']})")
+        print(f"   Float requis: < {res['real_f']:.4f} (Adj: {res['adj_target']:.2f}){penalty_warn}")
+        print(f"   COÛT TOTAL: {res['total_cost']:.2f} | EV: {res['total_ev']:.2f} | PROFIT MOYEN: {res['profit_moyen']:+.2f} | ROI: {res['roi']:.1f}%")
+        print(f"   DROP TABLE (Valeur nette vs Coût contrat de {res['total_cost']:.2f}):")
+        
+        for d in res['drop_table']:
+            color_symbol = "🟢" if d['diff'] >= 0 else "🔴"
+            print(f"     {color_symbol} {d['name'][:25]:<25} ({d['cond']}): {d['val']:>8.2f} (Profit: {d['diff']:>+8.2f})")
+        print("-" * 60)
 
     conn.close()
 
