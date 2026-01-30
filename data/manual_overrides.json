@@ -1,0 +1,16 @@
+[
+    {
+        "skin": "Nova | Rising Skull",
+        "condition": "FT",
+        "is_stattrak": true,
+        "price": 15.0,
+        "comment": "IA prediction too high ($49), overriding to realistic market baseline"
+    },
+    {
+        "skin": "Nova | Rising Skull",
+        "condition": "MW",
+        "is_stattrak": true,
+        "price": 20.0,
+        "comment": "Manual override for better safety"
+    }
+]
